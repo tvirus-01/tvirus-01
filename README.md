@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tvirus-01
 - 👀 I’m interested in Learning....
-- 🌱 I’m currently learning AI-ML
+- 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me shorturl.at/emFIL
+- 📫 How to reach me https://shorturl.at/emFIL
 - :triangular_flag_on_post: Website https://syed-sakib.dev
 
 <!---
