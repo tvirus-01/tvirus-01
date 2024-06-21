@@ -2,7 +2,7 @@
 - 👀 I’m interested in Learning....
 - 🌱 I’m currently learning Deep Learning and Computer Vision
 - 💞️ I’m looking to collaborate on Nothing
-- 📫 How to reach me https://shorturl.at/emFIL or https://t.me/syed_sakib
+- 📫 How to reach me inbox@syed-sakib.dev
 - :triangular_flag_on_post: Website https://syed-sakib.dev
 
 <!---
