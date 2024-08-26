@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tvirus-01
 - 👀 I’m interested in Learning....
 - 🌱 I’m currently learning Deep Learning and Computer Vision
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking to collaborate on Interesting Projects
 - 📫 How to reach me inbox@syed-sakib.dev
 - :triangular_flag_on_post: Website https://syed-sakib.dev
 
